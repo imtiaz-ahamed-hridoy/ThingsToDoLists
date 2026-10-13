@@ -1,0 +1,189 @@
+{
+  "status": true,
+  "data": {
+    "activity": {
+      "status": true,
+      "data": {
+        "id": 38997,
+        "name": "1 Day Transfer to Fitzroy Island - Full Day",
+        "description": "Departing Cairns Reef Fleet Terminal, enjoy a magical day on Fitzroy Island with return ferry transfers whisking you away to a tropical island paradise.",
+        "category": "Tours",
+        "city": "Cairns",
+        "country": "Australia",
+        "countryCode": "AU",
+        "latitude": -16.9331892253529,
+        "longitude": 145.992973725627,
+        "currency": "AUD",
+        "merchant": {
+          "id": "merchant-1",
+          "name": "Ticketmates (Big Red Group)"
+        },
+        "image": "6643fa61-3dfc-4181-8089-b655af579cd8",
+        "media": [
+          {
+            "id": 61143,
+            "path": "9b45fdf2-da2f-4d81-9d3a-c49145fd1860",
+            "type": "image/jpeg"
+          }
+        ],
+        "inclusions": [
+          {
+            "value": "Fast air-conditioned catamaran to and from the island"
+          },
+          {
+            "value": "Restaurant and bar facilities available"
+          }
+        ],
+        "exclusions": [
+          {
+            "value": "Hotel transfers"
+          }
+        ],
+        "highlights": [
+          {
+            "value": "Escape to Fitzroy Island on a 45 minute cruise"
+          },
+          {
+            "value": "Enjoy 6.5 hours on Fitzroy Island to spend as you please"
+          }
+        ],
+        "thingsToNote": [
+          {
+            "value": "Weather: Be prepared for potential delays or cancellations."
+          }
+        ],
+        "howToUseList": [
+          {
+            "value": "Show Mobile Ticket"
+          },
+          {
+            "value": "Ticketing counter"
+          }
+        ],
+        "isCancellable": true,
+        "isInstantConfirmation": true,
+        "fromPrice": 49.2,
+        "originalPrice": 53,
+        "postalCode": "4870",
+        "addressLine": "Cairns Reef Fleet Terminal 1 Spence Street, Cairns, QLD 4870",
+        "termsAndConditions": "NIL"
+      }
+    },
+    "activityOptions": {
+      "status": true,
+      "data": [
+        {
+          "id": 129121,
+          "name": "Full Day - Cairns to Fitzroy",
+          "ticketType": [
+            {
+              "id": 169361,
+              "name": "ADULT",
+              "originalPrice": 63.23,
+              "nettPrice": 52.09,
+              "recommendedSellingPrice": 53.32,
+              "recommendedMerchantSellingPrice": 88.54,
+              "currency": "EUR",
+              "minPurchaseQty": 1,
+              "maxPurchaseQty": 20,
+              "ageFrom": 16,
+              "ageTo": 99
+            },
+            {
+              "id": 169362,
+              "name": "CHILD",
+              "originalPrice": 36.13,
+              "nettPrice": 29.87,
+              "recommendedSellingPrice": 30.39,
+              "recommendedMerchantSellingPrice": 50.46,
+              "currency": "EUR",
+              "minPurchaseQty": 1,
+              "maxPurchaseQty": 20,
+              "ageFrom": 4,
+              "ageTo": 15
+            },
+            {
+              "id": 169363,
+              "name": "Family (2A+2C)",
+              "originalPrice": 162.59,
+              "nettPrice": 133.56,
+              "recommendedSellingPrice": 137.01,
+              "recommendedMerchantSellingPrice": 227.53,
+              "currency": "EUR",
+              "minPurchaseQty": 1,
+              "maxPurchaseQty": 20
+            }
+          ],
+          "questions": [
+            {
+              "id": "hotel_name",
+              "label": "Hotel Name",
+              "required": true,
+              "type": "STRING"
+            }
+          ],
+          "cancellationNotes": [
+            "Free cancellation"
+          ],
+          "isCancellable": true
+        }
+      ]
+    },
+    "availability": {
+      "status": true,
+      "data": [
+        {
+          "id": "sess-1",
+          "date": "2026-04-13",
+          "isAvailable": true,
+          "total": 10,
+          "available": 9,
+          "time": "2026-04-13T09:00:00",
+          "ticket_type_id": 169361,
+          "ticket_id": 169361,
+          "ticket_name": "ADULT",
+          "recommendedSellingPrice": 53.32,
+          "nettPrice": 52.09,
+          "price": {
+            "amount": 53.32,
+            "currency": "AUD"
+          }
+        },
+        {
+          "id": "sess-2",
+          "date": "2026-04-13",
+          "isAvailable": true,
+          "total": 10,
+          "available": 9,
+          "time": "2026-04-13T09:00:00",
+          "ticket_type_id": 169362,
+          "ticket_id": 169362,
+          "ticket_name": "CHILD",
+          "recommendedSellingPrice": 30.39,
+          "nettPrice": 29.87,
+          "price": {
+            "amount": 30.39,
+            "currency": "AUD"
+          }
+        },
+        {
+          "id": "sess-3",
+          "date": "2026-04-13",
+          "isAvailable": true,
+          "total": 10,
+          "available": 9,
+          "time": "2026-04-13T09:00:00",
+          "ticket_type_id": 169363,
+          "ticket_id": 169363,
+          "ticket_name": "Family (2A+2C)",
+          "recommendedSellingPrice": 137.01,
+          "nettPrice": 133.56,
+          "price": {
+            "amount": 137.01,
+            "currency": "AUD"
+          }
+        }
+      ]
+    }
+  }
+}

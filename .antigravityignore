@@ -1,0 +1,11 @@
+vendor/
+node_modules/
+public/build/
+storage/
+.git/
+*.log
+.env
+raw_analysis.json
+Royalloge.postman_collection.json
+.idea/
+.vscode/

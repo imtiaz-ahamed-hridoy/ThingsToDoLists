@@ -1,0 +1,228 @@
+{
+  "status": true,
+  "data": {
+    "activity": {
+      "id": 259906,
+      "title": "Combo Tour: Metro System, Christmas Lights and Food Tour of Medellin",
+      "description": "This 8-hour tour is designed for those who want to get a comprehensive idea of the city, including the innovative Metro System and the well-recognized Christmas lights.",
+      "barcodeType": "CODE_128",
+      "vendor": {
+        "id": 32736,
+        "title": "Medellin City Services",
+        "currencyCode": "USD"
+      },
+      "activityCategories": [
+        "BUS_OR_MINIVAN_TOUR",
+        "LUXURY_AND_SPECIAL_OCCASIONS",
+        "CITY_TOURS",
+        "DAY_TRIPS_AND_EXCURSIONS",
+        "CULINARY",
+        "HOLIDAY_AND_SEASONAL_TOURS"
+      ],
+      "activityAttributes": [
+        "LUXURY",
+        "PRIVATE_ACTIVITY"
+      ],
+      "cancellationPolicy": {
+        "title": "Standard policy",
+        "policyType": "ADVANCED",
+        "penaltyRules": [
+          {
+            "cutoffHours": 24,
+            "charge": 100,
+            "chargeType": "percentage",
+            "percentage": 100
+          }
+        ]
+      },
+      "bookingQuestions": [],
+      "passengerFields": [
+        {
+          "field": "FIRST_NAME",
+          "required": true
+        },
+        {
+          "field": "LAST_NAME",
+          "required": true
+        },
+        {
+          "field": "PHONE_NUMBER",
+          "required": true
+        }
+      ],
+      "mainContactFields": [],
+      "requiredCustomerFields": [],
+      "googlePlace": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "city": "Medellin",
+        "geoLocationCenter": {
+          "lat": 6.24579,
+          "lng": -75.57459
+        }
+      },
+      "photos": [
+        {
+          "id": 1112645,
+          "originalUrl": "https://bokun.s3.amazonaws.com/cb5d0abd-1802-4992-88f8-8acb32b0c8fe.jpg",
+          "fileName": "/cb5d0abd-1802-4992-88f8-8acb32b0c8fe.jpg",
+          "derived": [
+            {
+              "name": "preview",
+              "url": "https://imgcdn.bokun.tools/cb5d0abd-1802-4992-88f8-8acb32b0c8fe.jpg?w=300&h=300"
+            },
+            {
+              "name": "large",
+              "url": "https://imgcdn.bokun.tools/cb5d0abd-1802-4992-88f8-8acb32b0c8fe.jpg?w=660&h=660"
+            }
+          ]
+        }
+      ],
+      "videos": [],
+      "keyPhoto": {
+        "originalUrl": "https://bokun.example/original.jpg"
+      },
+      "included": "Guide<br />Water",
+      "excluded": "Tips",
+      "keywords": [
+        "metro",
+        "christmas",
+        "food"
+      ],
+      "pickupService": true,
+      "privateActivity": true,
+      "timeZone": "America/Bogota",
+      "activityType": "DAY_TOUR_OR_ACTIVITY",
+      "bookingType": "DATE_AND_TIME",
+      "scheduleType": "RECURRING",
+      "cutoffType": "RELATIVE_TO_START_TIME",
+      "cutoffReferenceHour": 0,
+      "cutoffReferenceMinute": 0,
+      "capacityType": "FREE_SALE",
+      "meetingType": "PICK_UP",
+      "passCapacity": 10,
+      "passesAvailable": 0,
+      "duration": 8,
+      "durationType": "HOURS",
+      "durationHours": 8,
+      "durationText": "8 hours",
+      "difficultyLevel": "EASY",
+      "allowCustomizedBookings": false,
+      "passportRequired": false,
+      "defaultRateId": 618121,
+      "rates": [
+        {
+          "id": 618121,
+          "title": "Main rate"
+        }
+      ],
+      "pricingCategories": [
+        {
+          "id": 200946,
+          "title": "Adult",
+          "ticketCategory": "ADULT",
+          "minAge": 3,
+          "maxAge": 99
+        }
+      ],
+      "startTimes": [
+        {
+          "id": 1862262,
+          "hour": 14,
+          "minute": 0
+        }
+      ],
+      "agendaItems": [],
+      "startPoints": [],
+      "bookableExtras": [],
+      "reviewRating": 0,
+      "reviewCount": 0,
+      "nextDefaultPrice": 299,
+      "nextDefaultPriceMoney": {
+        "amount": 299,
+        "currency": "USD"
+      }
+    },
+    "priceList": {
+      "activityId": 259906,
+      "defaultCurrency": "USD",
+      "isPriceConverted": false,
+      "pricesByDateRange": [
+        {
+          "from": "2026-04-13",
+          "to": "2027-04-13",
+          "rates": [
+            {
+              "rateId": 618121,
+              "title": "Main rate",
+              "passengers": [
+                {
+                  "pricingCategoryId": 200946,
+                  "title": "Adult",
+                  "ticketCategory": "ADULT",
+                  "tieredPrices": [
+                    {
+                      "currency": "USD",
+                      "amount": 299,
+                      "minPassengersRequired": 1,
+                      "maxPassengersRequired": 1
+                    },
+                    {
+                      "currency": "USD",
+                      "amount": 199,
+                      "minPassengersRequired": 2,
+                      "maxPassengersRequired": 3
+                    },
+                    {
+                      "currency": "USD",
+                      "amount": 175,
+                      "minPassengersRequired": 4,
+                      "maxPassengersRequired": 5
+                    },
+                    {
+                      "currency": "USD",
+                      "amount": 145,
+                      "minPassengersRequired": 6,
+                      "maxPassengersRequired": 15
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "availabilities": [
+      {
+        "id": "1862262_20260413",
+        "date": "2026-04-13",
+        "startTime": "2026-04-13T14:00:00",
+        "available": 999,
+        "availabilityCount": 999,
+        "bookedParticipants": 0,
+        "total": 999,
+        "soldOut": false,
+        "defaultRateId": 618121,
+        "minParticipants": 1,
+        "unlimitedAvailability": false,
+        "price": {
+          "amount": 299,
+          "currency": "USD"
+        },
+        "pricesByCategory": [
+          {
+            "pricingCategoryId": 200946,
+            "title": "Adult",
+            "ticketCategory": "ADULT",
+            "amount": {
+              "amount": 299,
+              "currency": "USD"
+            },
+            "nettPrice": 299
+          }
+        ]
+      }
+    ]
+  }
+}
