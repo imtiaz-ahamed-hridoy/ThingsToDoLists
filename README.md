@@ -1,4 +1,4 @@
-# 🌍 Things To Do Lists (Royalloge API Engine)
+# 🌍 Things To Do Lists
 
 > Enterprise-Grade Online Travel Agency (OTA) & Experiences Aggregation Platform
 
@@ -25,7 +25,7 @@
 - [2. Used Technologies](#2-used-technologies)
 - [3. Project Overview](#3-project-overview)
 - [4. System Architecture & Workflow](#4-system-architecture--workflow)
-- [5. 🚀 Key Functional Modules & Flows](#5--key-functional-modules--flows)
+- [5. Key Functional Modules & Flows](#5--key-functional-modules--flows)
 - [6. Project Structure & API Reference](#6-project-structure--api-reference)
 - [7. Environment Configuration (.env)](#7-environment-configuration-env)
 - [8. Installation & Setup Commands](#8-installation--setup-commands)
